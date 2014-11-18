@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7E2C415A-DE0D-4196-9E6E-949DDCD64D1F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomDatePicker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>55CD5DAEFDBD8BCBFA74C3BF10208F7FE1D4EF68</key>
+		<string>github.com:attias/AADatePicker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomDatePicker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>55CD5DAEFDBD8BCBFA74C3BF10208F7FE1D4EF68</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:attias/AADatePicker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>55CD5DAEFDBD8BCBFA74C3BF10208F7FE1D4EF68</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>55CD5DAEFDBD8BCBFA74C3BF10208F7FE1D4EF68</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomDatePicker</string>
+		</dict>
+	</array>
+</dict>
+</plist>

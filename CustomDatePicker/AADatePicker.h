@@ -21,6 +21,5 @@
 @property (nonatomic, strong) id<AADatePickerDelegate> delegate;
 @property (nonatomic, strong) NSDate *date;
 
-
-- (id)initWithFrame:(CGRect)frame maxDate:(NSDate *)maxDate minDate:(NSDate *)minDate;
+- (id)initWithFrame:(CGRect)frame maxDate:(NSDate *)maxDate minDate:(NSDate *)minDate showValidDatesOnly:(BOOL)showValidDatesOnly;
 @end
