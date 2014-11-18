@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C8AD661918E2E01B00620DD9"
-               BuildableName = "CustomDatePicker.app"
-               BlueprintName = "CustomDatePicker"
-               ReferencedContainer = "container:CustomDatePicker.xcodeproj">
+               BuildableName = "AACustomDatePicker.app"
+               BlueprintName = "AACustomDatePicker"
+               ReferencedContainer = "container:AACustomDatePicker.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C8AD663D18E2E01B00620DD9"
-               BuildableName = "CustomDatePickerTests.xctest"
-               BlueprintName = "CustomDatePickerTests"
-               ReferencedContainer = "container:CustomDatePicker.xcodeproj">
+               BuildableName = "AACustomDatePickerTests.xctest"
+               BlueprintName = "AACustomDatePickerTests"
+               ReferencedContainer = "container:AACustomDatePicker.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C8AD661918E2E01B00620DD9"
-            BuildableName = "CustomDatePicker.app"
-            BlueprintName = "CustomDatePicker"
-            ReferencedContainer = "container:CustomDatePicker.xcodeproj">
+            BuildableName = "AACustomDatePicker.app"
+            BlueprintName = "AACustomDatePicker"
+            ReferencedContainer = "container:AACustomDatePicker.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C8AD661918E2E01B00620DD9"
-            BuildableName = "CustomDatePicker.app"
-            BlueprintName = "CustomDatePicker"
-            ReferencedContainer = "container:CustomDatePicker.xcodeproj">
+            BuildableName = "AACustomDatePicker.app"
+            BlueprintName = "AACustomDatePicker"
+            ReferencedContainer = "container:AACustomDatePicker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C8AD661918E2E01B00620DD9"
-            BuildableName = "CustomDatePicker.app"
-            BlueprintName = "CustomDatePicker"
-            ReferencedContainer = "container:CustomDatePicker.xcodeproj">
+            BuildableName = "AACustomDatePicker.app"
+            BlueprintName = "AACustomDatePicker"
+            ReferencedContainer = "container:AACustomDatePicker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
